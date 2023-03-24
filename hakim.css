@@ -1,3 +1,12 @@
 body{
+    background-color: turquoise;
+}
+nav{
     background-color: crimson;
+    height: 100px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: 700;
 }
